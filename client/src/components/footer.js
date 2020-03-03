@@ -11,6 +11,14 @@ a {
     text-decoration: none;
     line-height: 4;
 }
+
+@media screen and (max-width: 800px) {
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+}
+
 `
 
 const FooterPage = () => {
@@ -47,7 +55,7 @@ const FooterPage = () => {
             </ul>
             
           </MDBCol>
-          <MDBCol md="">
+          <MDBCol md="4">
             <ul>
               <li className="list-unstyled">
                 <a href="/foodtrucks">Food Trucks Near You</a>
@@ -60,7 +68,7 @@ const FooterPage = () => {
               </li>
             </ul>
             </MDBCol>
-            <div class=" mb-5 flex-center">
+            <div class="mb-5 flex-center col s3">
             <a class="fb-ic">
             <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
           </a>
