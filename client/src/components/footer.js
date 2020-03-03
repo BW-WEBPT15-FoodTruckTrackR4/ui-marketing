@@ -33,10 +33,10 @@ const FooterPage = () => {
                 <a href="/about">About</a>
               </li>
               <li className="list-unstyled">
-                <a href="/login">Login</a>
+                <a href="https://foodtrucktrackr4.netlify.com/">Login</a>
               </li>
               <li className="list-unstyled">
-                <a href="/register">Register</a>
+                <a href="https://foodtrucktrackr4.netlify.com/">Register</a>
               </li>
             </ul>
             
