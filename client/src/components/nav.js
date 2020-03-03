@@ -36,8 +36,8 @@ const Nav = () => {
     <a class="brand-logo right" href="/"><img class="logo" src={logo}/></a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
         <li><a href="/about">About</a></li>
-        <li><a href="/login">Login</a></li>
-        <li><a href="/register">Register</a></li>
+        <li><a href="https://foodtrucktrackr4.netlify.com/">Login</a></li>
+        <li><a href="https://foodtrucktrackr4.netlify.com/">Register</a></li>
       </ul>
       <ul id="slide-out" class="sidenav">
           <br/>
