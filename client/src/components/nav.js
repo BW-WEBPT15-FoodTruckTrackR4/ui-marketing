@@ -5,7 +5,7 @@ import M, {options, instances} from 'materialize-css';
 
 const Navi = styled.div `
 a {
-    color: #FF5757 !important;
+    color: #e44635 !important;
     text-decoration: none;
 }
 
