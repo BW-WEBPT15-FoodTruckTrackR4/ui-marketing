@@ -8,7 +8,7 @@ import two from '../images/2.png'
 import three from '../images/3.png'
 
 const Below = styled.div ` 
-margin-top: 40%;
+margin-top: 30%;
 .slider {
   width: 100%;
   height: 30vw;

@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 const Foot = styled.div `
 .footer {
-    background-color: #ff5757 !important;
+    background-color: #e44635 !important;
 }
 a {
     color: white;

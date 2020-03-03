@@ -20,7 +20,7 @@ h1 {
     line-height: 2;
 }
 .strip {
-    background-color: #ff5757;
+    background-color: #e44635;
     height: 250px;
     width: 100%;
     margin-top: 30%;
@@ -69,7 +69,7 @@ button {
     height: 50px;
     font-size: 1rem;
     font-family: 'Fjalla One';
-    background-color: #ff5757;
+    background-color: #e44635;
     color: white;
     }
 
